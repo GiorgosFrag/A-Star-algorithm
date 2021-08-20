@@ -1,0 +1,1 @@
+This is an implementation of the A* path searching algorithm.
